@@ -1,2 +1,1 @@
-# name_registration
-Name registration system in a simple list!
+A sample command-line application providing basic argument parsing with an entrypoint in `bin/`.
